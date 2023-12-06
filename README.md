@@ -26,12 +26,7 @@ Our commitment to child safety goes beyond technology. We're dedicated to empowe
 - **Customization:** Tailor our system to match your unique needs and preferences for an optimal child safety solution.
 - **Peace of Mind:** Enjoy moments with your family, knowing that KiddoShield Technologies has your child's safety covered.
 
-Thank you for joining us on this journey to prioritize the well-being of our little ones. Together, we can create a safer world for children to thrive.
 
-Ready to explore what KiddoShield Technologies can do for you? Let's get started!
-
-
-Welcome to the repository for KiddoShield Technologies. Here, we focus on developing innovative safety solutions for children.
 
 ## About Our Project
 
