@@ -17,9 +17,17 @@ Welcome to the repository for KiddoShield Technologies. Here, we focus on develo
 
 KiddoShield Technologies is dedicated to enhancing child safety through cutting-edge technology. Our projects range from software applications to physical safety devices.
 
-## Features
-![Happy vs Sad Face](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(26).jpg)
+### Kids Toy
+
 ![Toy Image](toy%20(2).jpg)
+![Toy Image](toy%20(11).jpg)
+![Toy Image](toy%20(16).jpg)
+
+### Household Item
+
+![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(26).jpg)
+![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(25).jpg)
+![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(41).jpg)
 
 
 
