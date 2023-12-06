@@ -94,7 +94,5 @@ Utilizing AlexNet in my project offered several significant benefits:
 
 In summary, I harnessed the power of AlexNet to enhance child safety in my project. The model's ability to distinguish between toys and hazardous items with high accuracy and efficiency proved to be a valuable asset in creating a safer environment for children.
 
-![Accuracy and Loss](accuracy_and_loss.png)
-![Epoch Train and Loss](epoch_train_and_loss.png)
 
 
