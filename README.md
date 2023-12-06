@@ -1,6 +1,6 @@
 # KiddoShield Technologies
 
-![KiddoShield Technologies Logo](URL_OF_YOUR_IMAGE)
+![KiddoShield Technologies Logo](KiddoShield Technologies logo.png)
 
 Welcome to the repository for KiddoShield Technologies. Here, we focus on developing innovative safety solutions for children.
 
