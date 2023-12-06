@@ -11,10 +11,23 @@ Welcome to the official website of KiddoShield Technologies, where child safety 
 
 In today's fast-paced digital age, parents often find themselves occupied with various tasks, leaving their children unattended. This lack of supervision can lead to unforeseen accidents, especially when children come into contact with household items that can pose risks. Kids, being naturally curious, may not always distinguish between harmless toys and potentially hazardous objects, such as sharp tools or chemicals.
 
-
 # Our Mission
 
 At KiddoShield Technologies, our mission is clear and unwavering: to enhance child safety through cutting-edge technology. We recognize the challenges parents face in today's busy world, and our goal is to provide a solution that empowers parents to protect their children effectively.
+
+## What We Offer
+
+At KiddoShield Technologies, we offer a comprehensive suite of child safety solutions that empower parents and caregivers to create a secure environment for their children. Our offerings include:
+
+- **Real-Time Hazard Detection**: Our cutting-edge technology utilizes computer vision models to detect hazardous items and toys in real time. Receive instant alerts on your mobile device when your child approaches potential dangers.
+
+- **User-Friendly Mobile App**: We provide an intuitive mobile app that allows parents to monitor their child's safety effortlessly. The app provides real-time notifications, historical data, and easy-to-understand insights.
+
+- **Customizable Alerts**: Tailor the alert system to suit your preferences. Choose which hazards you want to be notified about, and set sensitivity levels to match your child's age and behavior.
+
+- **Continuous Updates**: We are committed to staying at the forefront of child safety technology. Expect regular updates and enhancements to ensure your child's safety is always our top priority.
+
+- **Support and Community**: Join our community of parents and caregivers dedicated to child safety. Get access to resources, tips, and a support network to help you navigate the journey of parenthoo. Discover peace of mind with KiddoShield Technologies. We're here to make child safety easier and more effective for you.
 
 ### What Drives Us
 
@@ -26,12 +39,6 @@ We achieve our mission by combining state-of-the-art technology with a deep comm
 
 
 
-
-## What We Offer
-- **Advanced Safety Technology:** Our system incorporates state-of-the-art technology, including the integration of the AlexNet and YOLO models, to detect potential hazards.
-- **Educational Resources:** We provide resources, articles, and tips to educate parents and caregivers on child safety best practices.
-- **Customization:** Tailor our system to match your unique needs and preferences for an optimal child safety solution.
-- **Peace of Mind:** Enjoy moments with your family, knowing that KiddoShield Technologies has your child's safety covered.
 
 
 
@@ -64,53 +71,10 @@ In my project aimed at creating a safe environment for kids, I utilized AlexNet 
 3. **Fine-Tuning:** I fine-tuned the model on my dataset, which contained images of both toys and hazardous items. During this process, the model learned to identify unique features associated with each category.
 
 4. **Real-Time Detection:** With the trained AlexNet model integrated into my system, it was capable of real-time detection of objects in the environment. Whenever a child approached or interacted with an item, the system used AlexNet to determine if it was a toy or a hazardous item.
+![Accuracy and Loss](accuracy%20and%20loss.png)
 
 
-## Progress
-![Toy Image](accuracy and loss%20.png)
-## The Core Principles
-
-Our journey is guided by three core principles that define our approach to child safety:
-
-### Vigilance
-
-Vigilance is the cornerstone of our approach. We understand that accidents can occur in the blink of an eye, and a moment's distraction can have enduring consequences. That's why we have harnessed the power of advanced technology to create an unwavering guardian that never sleeps. Our system is designed to tirelessly watch over your children, detect potential hazards, and alert you in real-time, ensuring that safety is never compromised.
-
-Our cutting-edge technology incorporates the latest advancements in artificial intelligence, including the integration of the AlexNet and YOLO models. These models are not mere algorithms; they are the watchful eyes that scan the environment, distinguishing between harmless objects and potential hazards with precision and accuracy.
-
-### Education
-
-Education is empowerment. We believe that parents and caregivers should be equipped with knowledge about child safety best practices. To that end, we provide an extensive library of educational resources, articles, and tips. We aim to foster a community of informed and safety-conscious individuals who can create secure environments for children to explore, learn, and play.
-
-Our educational resources cover a wide range of topics, from digital literacy and online safety to childproofing your home. We understand that parenting comes with its unique challenges, and we are here to provide guidance and support every step of the way.
-
-### Customization
-
-We understand that every family and living space is unique. Our system allows for customization to match your specific needs and preferences. We recognize that child safety is not one-size-fits-all, and our goal is to provide a solution that aligns perfectly with your child safety goals.
-
-Whether you have a toddler who is just beginning to explore or a teenager who is venturing into the digital world, our system can be tailored to meet your requirements. We believe that child safety solutions should adapt to your family's lifestyle, not the other way around.
-
-## What We Offer
-
-Our commitment to child safety is not mere rhetoric; it is reflected in the comprehensive set of offerings we provide:
-
-### Advanced Safety Technology
-
-Our system incorporates state-of-the-art technology, including the integration of the AlexNet and YOLO models, to detect potential hazards with precision and accuracy. These models are not static; they are continuously updated to stay ahead of emerging threats.
-
-### Educational Resources
-
-We provide an extensive library of resources, articles, and tips to educate parents and caregivers on child safety best practices. Our educational content is designed to be accessible and actionable, providing practical guidance for safeguarding your children.
-
-### Customization
-
-We understand that every family is unique, and our system allows for customization to match your specific needs and preferences. Whether you have specific concerns about digital safety or physical hazards in your home, our system can be tailored to address them.
-
-### Peace of Mind
-
-Ultimately, what we offer is peace of mind. As a parent or caregiver, you can enjoy moments with your family, knowing that KiddoShield Technologies has your child's safety covered. Our system is not a replacement for your watchful eyes but a vigilant ally that enhances your ability to keep your children safe.
-
-
+![Epoch Train and Loss](epoch%20train%20and%20loss.png)
 
 ### AlexNet: A Brief Overview
 
