@@ -26,8 +26,6 @@ We achieve our mission by combining state-of-the-art technology with a deep comm
 
 
 
-## Our Commitment
-Our commitment to child safety goes beyond technology. We're dedicated to empowering parents and caregivers with the tools and knowledge they need to create safe spaces for children to explore, learn, and play. Our journey is guided by the principles of vigilance, education, and customization.
 
 ## What We Offer
 - **Advanced Safety Technology:** Our system incorporates state-of-the-art technology, including the integration of the AlexNet and YOLO models, to detect potential hazards.
@@ -37,6 +35,7 @@ Our commitment to child safety goes beyond technology. We're dedicated to empowe
 
 
 
+# Datasets
 ### Kids Toy
 
 ![Toy Image](toy%20(2).jpg)
@@ -48,6 +47,24 @@ Our commitment to child safety goes beyond technology. We're dedicated to empowe
 ![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(26).jpg)
 ![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(25).jpg)
 ![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(41).jpg)
+
+### AlexNet: A Brief Overview
+
+**AlexNet** is a powerful convolutional neural network (CNN) architecture designed for image classification. It gained fame for its victory in the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012. Key features of AlexNet include its deep architecture, convolutional layers for feature extraction, Rectified Linear Units (ReLU) for activation, and data augmentation.
+
+
+
+### Using AlexNet in My Project
+
+In my project aimed at creating a safe environment for kids, I utilized AlexNet as a pre-trained model for image classification. Here's how I integrated AlexNet into the project:
+
+1. **Transfer Learning:** I applied the concept of transfer learning, where I used the pre-trained weights and architecture of AlexNet as a starting point. This allowed me to benefit from its ability to recognize a wide range of visual features learned from a vast dataset.
+
+2. **Customization:** To adapt AlexNet for my specific task of distinguishing between toys and hazardous items, I added a custom output layer to the pre-trained model. This output layer was designed to classify images into these two categories.
+
+3. **Fine-Tuning:** I fine-tuned the model on my dataset, which contained images of both toys and hazardous items. During this process, the model learned to identify unique features associated with each category.
+
+4. **Real-Time Detection:** With the trained AlexNet model integrated into my system, it was capable of real-time detection of objects in the environment. Whenever a child approached or interacted with an item, the system used AlexNet to determine if it was a toy or a hazardous item.
 
 
 
@@ -93,30 +110,11 @@ We understand that every family is unique, and our system allows for customizati
 
 Ultimately, what we offer is peace of mind. As a parent or caregiver, you can enjoy moments with your family, knowing that KiddoShield Technologies has your child's safety covered. Our system is not a replacement for your watchful eyes but a vigilant ally that enhances your ability to keep your children safe.
 
-## Join Us on This Journey
-
-We extend a warm welcome to you to join us on this transformative journey. Together, we can create a safer world for our children—a world where their innocence is preserved, their curiosity is nurtured, and their safety is non-negotiable.
-
-As we introduce KiddoShield Technologies to the world, we invite you to explore the possibilities, engage with our community, and be part of a movement that prioritizes the well-being of our little ones. Together, we can safeguard our future.
-
-Are you ready to embark on this journey of child safety with us? Let's take the first step together.
 
 
 ### AlexNet: A Brief Overview
 
 **AlexNet** is a powerful convolutional neural network (CNN) architecture designed for image classification. It gained fame for its victory in the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012. Key features of AlexNet include its deep architecture, convolutional layers for feature extraction, Rectified Linear Units (ReLU) for activation, and data augmentation.
-
-### Using AlexNet in My Project
-
-In my project aimed at creating a safe environment for kids, I utilized AlexNet as a pre-trained model for image classification. Here's how I integrated AlexNet into the project:
-
-1. **Transfer Learning:** I applied the concept of transfer learning, where I used the pre-trained weights and architecture of AlexNet as a starting point. This allowed me to benefit from its ability to recognize a wide range of visual features learned from a vast dataset.
-
-2. **Customization:** To adapt AlexNet for my specific task of distinguishing between toys and hazardous items, I added a custom output layer to the pre-trained model. This output layer was designed to classify images into these two categories.
-
-3. **Fine-Tuning:** I fine-tuned the model on my dataset, which contained images of both toys and hazardous items. During this process, the model learned to identify unique features associated with each category.
-
-4. **Real-Time Detection:** With the trained AlexNet model integrated into my system, it was capable of real-time detection of objects in the environment. Whenever a child approached or interacted with an item, the system used AlexNet to determine if it was a toy or a hazardous item.
 
 ### Benefits of Using AlexNet
 
