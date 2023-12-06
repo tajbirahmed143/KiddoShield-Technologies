@@ -1,1 +1,1 @@
-# KiddoShield-Technologies
+# KiddoShield Technologies.
