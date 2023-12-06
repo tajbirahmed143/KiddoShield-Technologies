@@ -1,6 +1,15 @@
-# KiddoShield Technologies
+<div align="center">
+    <h1>✨🛡️ KiddoShield Technologies 🛡️✨</h1>
+</div>
 
-![KiddoShield Technologies Logo](KiddoShield Technologies logo.png)
+
+
+
+<div align="center">
+    <img src="KiddoShield%20Technologies%20logo.png" alt="KiddoShield Technologies Logo" width="550"/>
+</div>
+
+
 
 Welcome to the repository for KiddoShield Technologies. Here, we focus on developing innovative safety solutions for children.
 
