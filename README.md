@@ -53,7 +53,6 @@ We achieve our mission by combining state-of-the-art technology with a deep comm
 **AlexNet** is a powerful convolutional neural network (CNN) architecture designed for image classification. It gained fame for its victory in the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012. Key features of AlexNet include its deep architecture, convolutional layers for feature extraction, Rectified Linear Units (ReLU) for activation, and data augmentation.
 
 
-
 ### Using AlexNet in My Project
 
 In my project aimed at creating a safe environment for kids, I utilized AlexNet as a pre-trained model for image classification. Here's how I integrated AlexNet into the project:
@@ -67,7 +66,8 @@ In my project aimed at creating a safe environment for kids, I utilized AlexNet 
 4. **Real-Time Detection:** With the trained AlexNet model integrated into my system, it was capable of real-time detection of objects in the environment. Whenever a child approached or interacted with an item, the system used AlexNet to determine if it was a toy or a hazardous item.
 
 
-
+## Progress
+![Toy Image](accuracy and loss%20.png)
 ## The Core Principles
 
 Our journey is guided by three core principles that define our approach to child safety:
@@ -129,5 +129,8 @@ Utilizing AlexNet in my project offered several significant benefits:
 4. **Reduced Development Time:** By leveraging a pre-trained model like AlexNet, I saved considerable development time that would have been required to build and train a similar model from scratch.
 
 In summary, I harnessed the power of AlexNet to enhance child safety in my project. The model's ability to distinguish between toys and hazardous items with high accuracy and efficiency proved to be a valuable asset in creating a safer environment for children.
+
+![Accuracy and Loss](accuracy_and_loss.png)
+![Epoch Train and Loss](epoch_train_and_loss.png)
 
 
