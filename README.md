@@ -96,3 +96,4 @@ In summary, I harnessed the power of AlexNet to enhance child safety in my proje
 
 
 
+![Epoch Train and Loss](feature%20map.png)
