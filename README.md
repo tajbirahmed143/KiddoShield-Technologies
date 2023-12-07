@@ -3,14 +3,10 @@
 </div>
 
 <div align="center">
-    <img src="KiddoShield%20Technologies%20logo.png" alt="KiddoShield Technologies Logo" width="450"/>
+    <img src="Data/KiddoShield%20Technologies%20logo.png" alt="KiddoShield Technologies Logo" width="450"/>
 </div>
 
 *Welcome to the official website of KiddoShield Technologies, where child safety takes center stage. In a world where distractions are abundant and children's curiosity knows no bounds, our mission is clear: to create a safe and secure environment for your little ones.*
-
-
-![Accuracy and Loss Graph](Data/accuracy%20and%20loss.png)
-
 ___
 ### AlexNet: A Brief Overview
 
