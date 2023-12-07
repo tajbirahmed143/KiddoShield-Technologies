@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="KiddoShield%20Technologies%20logo.png" alt="KiddoShield Technologies Logo" width="4500"/>
+    <img src="KiddoShield%20Technologies%20logo.png" alt="KiddoShield Technologies Logo" width="450"/>
 </div>
 
 Welcome to the official website of KiddoShield Technologies, where child safety takes center stage. In a world where distractions are abundant and children's curiosity knows no bounds, our mission is clear: to create a safe and secure environment for your little ones.
@@ -16,19 +16,19 @@ ___
 </div>
 
 _____
- # The Problem
+ # 💡The Problem
 
 In today's fast-paced digital age, parents often find themselves occupied with various tasks, leaving their children unattended. This lack of supervision can lead to unforeseen accidents, especially when children come into contact with household items that can pose risks. Kids, being naturally curious, may not always distinguish between harmless toys and potentially hazardous objects, such as sharp tools or chemicals.
 
-## What Drives Us
+## 🏹What Drives Us
 
 The driving force behind our mission is the well-being of children. We believe that every child deserves a safe environment to learn, play, and grow without unnecessary risks. Our passion for child safety fuels our determination to develop innovative solutions that make a real difference in the lives of families.
 
-# Our Mission
+# 🚀Our Mission
 
 At KiddoShield Technologies, our mission is clear and unwavering: to enhance child safety through cutting-edge technology. We recognize the challenges parents face in today's busy world, and our goal is to provide a solution that empowers parents to protect their children effectively.
 
-## What We Offer
+## 📋What We Offer
 
 At KiddoShield Technologies, we offer a comprehensive suite of child safety solutions that empower parents and caregivers to create a secure environment for their children. Our offerings include:
 
@@ -45,18 +45,24 @@ At KiddoShield Technologies, we offer a comprehensive suite of child safety solu
 
 [Datasets](https://docs.google.com/presentation/d/1BzIW9i5MSWFqAmGuCQvZJXfuHPE8Aeq331CLBh6X_ZY/edit#slide=id.g206f8279a60_0_0)
 
-# What we working on
-### Kids Toy
+<div align="center">
+    <h1>📆 What we working on📆 </h1>
+</div>
 
+
+# Kids Toy
+#### These items are considered safe for kids 
 ![Toy Image](toy%20(2).jpg)
 ![Toy Image](toy%20(11).jpg)
 ![Toy Image](toy%20(16).jpg)
 __________
-### Household Item
-
+# Household Item
+#### These items are considered unsafe and hazardous for kids 
 ![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(26).jpg)
 ![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(25).jpg)
 ![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(41).jpg)
+
+[AlexNet NoteBook](https://docs.google.com/presentation/d/1BzIW9i5MSWFqAmGuCQvZJXfuHPE8Aeq331CLBh6X_ZY/edit#slide=id.g206f8279a60_0_0)
 
 ### Using AlexNet in My Project
 
@@ -73,8 +79,8 @@ In my project aimed at creating a safe environment for kids, I utilized AlexNet 
 
 
 ![Epoch Train and Loss](epoch%20train%20and%20loss.png)
-
-4. **Reduced Development Time:** By leveraging a pre-trained model like AlexNet, I saved considerable development time that would have been required to build and train a similar model from scratch
+# Feature Map
+[Google Colab Notebook](https://colab.research.google.com/drive/1vYmdwU6TSZyrNFM_jzg-z83U3gx2vaks?usp=sharing)
 
 ![Epoch Train and Loss](feature%20map.png)
 
