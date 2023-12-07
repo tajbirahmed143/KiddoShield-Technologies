@@ -8,13 +8,8 @@
 
 *Welcome to the official website of KiddoShield Technologies, where child safety takes center stage. In a world where distractions are abundant and children's curiosity knows no bounds, our mission is clear: to create a safe and secure environment for your little ones.*
 
-![household 1](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(25).jpg)
-![household 2](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(26).jpg)
-![household 3](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(41).jpg)
-![Toy 1 ](Data/toy%20(2).jpg)
-![Toy 2 ](Data/toy%20(11).jpg)
-![Toy 3 ](Data/toy%20(16).jpg)
 
+![Accuracy and Loss Graph](Data/accuracy%20and%20loss.png)
 
 ___
 ### AlexNet: A Brief Overview
@@ -87,22 +82,25 @@ In my project aimed at creating a safe environment for kids, I utilized AlexNet 
 4. **Real-Time Detection:** With the trained AlexNet model integrated into my system, it was capable of real-time detection of objects in the environment. Whenever a child approached or interacted with an item, the system used AlexNet to determine if it was a toy or a hazardous item.
 
 ## Accuracy and Loss
-![Accuracy and Loss](accuracy%20and%20loss.png)
+
+![Accuracy and Loss Graph](Data/accuracy%20and%20loss.png)
 ___
 ## Accuracy and Loss Epoch
-![Epoch Train and Loss](epoch%20train%20and%20loss.png)
+
+![Epoch Train and Loss Graph](Data/epoch%20train%20and%20loss.png)
+
 # Feature Map
 [Google Colab Notebook](https://colab.research.google.com/drive/1vYmdwU6TSZyrNFM_jzg-z83U3gx2vaks?usp=sharing)
 
-![Epoch Train and Loss](feature%20map.png)
 
 
+![Epoch Train and Loss](Data/feature%20map.png)
 
 ## 📈 Weights and Biases Results
 
 <div align="center">
-    <img src="train.png" alt="Training Results" width="500"/>
-    <img src="loss.png" alt="Loss Results" width="500"/>
+    <img src="Data/train.png" alt="Training Results" width="500"/>
+    <img src="Data/loss.png" alt="Loss Results" width="500"/>
 </div>
 
 ---
