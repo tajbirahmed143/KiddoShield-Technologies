@@ -63,7 +63,7 @@ __________
 ![household 3](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(41).jpg)
 
 
-[AlexNet NoteBook](https://docs.google.com/presentation/d/1BzIW9i5MSWFqAmGuCQvZJXfuHPE8Aeq331CLBh6X_ZY/edit#slide=id.g206f8279a60_0_0)
+[AlexNet NoteBook](https://colab.research.google.com/drive/1eFu8qtLDgABWkYEcT0Pim82_yzbR92CR?usp=sharing)
 
 ### Using AlexNet in My Project
 
