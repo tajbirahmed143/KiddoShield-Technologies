@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="KiddoShield%20Technologies%20logo.png" alt="KiddoShield Technologies Logo" width="550"/>
+    <img src="KiddoShield%20Technologies%20logo.png" alt="KiddoShield Technologies Logo" width="4500"/>
 </div>
 
 Welcome to the official website of KiddoShield Technologies, where child safety takes center stage. In a world where distractions are abundant and children's curiosity knows no bounds, our mission is clear: to create a safe and secure environment for your little ones.
@@ -74,16 +74,6 @@ In my project aimed at creating a safe environment for kids, I utilized AlexNet 
 
 ![Epoch Train and Loss](epoch%20train%20and%20loss.png)
 
-### Benefits of Using AlexNet
-
-Utilizing AlexNet in my project offered several significant benefits:
-
-1. **Accuracy:** AlexNet's pre-trained features provided a strong foundation for accurate object recognition. This resulted in a high level of confidence in classifying toys and hazardous items correctly.
-
-2. **Efficiency:** The model's architecture and feature extraction capabilities allowed for efficient real-time detection, ensuring rapid alerts to parents when their child interacted with potential hazards.
-
-3. **Generalization:** Thanks to the diverse training data used to pre-train AlexNet, the model could generalize well to recognize a wide variety of toys and hazardous items.
-
 4. **Reduced Development Time:** By leveraging a pre-trained model like AlexNet, I saved considerable development time that would have been required to build and train a similar model from scratch
 
 ![Epoch Train and Loss](feature%20map.png)
@@ -97,3 +87,17 @@ Utilizing AlexNet in my project offered several significant benefits:
     <img src="loss.png" alt="Loss Results" width="500"/>
 </div>
 
+---
+### Benefits of Using AlexNet
+
+Utilizing AlexNet in my project offered several significant benefits:
+
+1. **Accuracy**: AlexNet's pre-trained features provided a strong foundation for accurate object recognition. This resulted in a high level of confidence in classifying toys and hazardous items correctly. The model's ability to capture intricate patterns and features in images contributed to its high classification accuracy.
+
+2. **Efficiency**: AlexNet's architecture and feature extraction capabilities allowed for efficient real-time detection. This efficiency ensured rapid alerts to parents when their child interacted with potential hazards. The model's speed and accuracy make it well-suited for applications where timely responses are crucial.
+
+3. **Generalization**: Thanks to the diverse training data used to pre-train AlexNet, the model could generalize well to recognize a wide variety of toys and hazardous items. This generalization capability is essential in scenarios where the input data can vary significantly, as it ensures robust performance across different items and situations.
+
+4. **Reduced Development Time**: By leveraging a pre-trained model like AlexNet, I saved considerable development time that would have been required to build and train a similar model from scratch. Pre-trained models come with well-optimized architectures and learned features, allowing developers to focus on fine-tuning and customization for their specific task. This significantly expedited the development process and accelerated project delivery.
+
+5. **Proven Performance**: AlexNet's historical success in image classification tasks, including winning the ImageNet competition in 2012, provided confidence in its performance capabilities. It has a track record of outperforming traditional machine learning models, making it a reliable choice for image recognition projects.e safety of children when interacting with toys and potential hazards.
