@@ -8,6 +8,9 @@
 
 *Welcome to the official website of KiddoShield Technologies, where child safety takes center stage. In a world where distractions are abundant and children's curiosity knows no bounds, our mission is clear: to create a safe and secure environment for your little ones.*
 
+![household 1](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(25).jpg)
+![household 2](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(26).jpg)
+![household 3](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(41).jpg)
 
 ___
 ### AlexNet: A Brief Overview
@@ -60,9 +63,10 @@ At KiddoShield Technologies, we offer a comprehensive suite of child safety solu
 __________
 # Household Item
 #### These items are considered unsafe and hazardous for kids 
-![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(26).jpg)
-![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(25).jpg)
-![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(41).jpg)
+![household 1](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(25).jpg)
+![household 2](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(26).jpg)
+![household 3](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(41).jpg)
+
 
 [AlexNet NoteBook](https://docs.google.com/presentation/d/1BzIW9i5MSWFqAmGuCQvZJXfuHPE8Aeq331CLBh6X_ZY/edit#slide=id.g206f8279a60_0_0)
 
