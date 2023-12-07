@@ -11,6 +11,10 @@
 ![household 1](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(25).jpg)
 ![household 2](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(26).jpg)
 ![household 3](Data/Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(41).jpg)
+![Toy 1 ](Data/toy%20(2).jpg)
+![Toy 2 ](Data/toy%20(11).jpg)
+![Toy 3 ](Data/toy%20(16).jpg)
+
 
 ___
 ### AlexNet: A Brief Overview
@@ -57,9 +61,9 @@ At KiddoShield Technologies, we offer a comprehensive suite of child safety solu
 
 # Kids Toy
 #### These items are considered safe for kids 
-![Toy Image](toy%20(2).jpg)
-![Toy Image](toy%20(11).jpg)
-![Toy Image](toy%20(16).jpg)
+![Toy 1 ](Data/toy%20(2).jpg)
+![Toy 2 ](Data/toy%20(11).jpg)
+![Toy 3 ](Data/toy%20(16).jpg)
 __________
 # Household Item
 #### These items are considered unsafe and hazardous for kids 
