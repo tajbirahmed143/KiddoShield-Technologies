@@ -7,9 +7,22 @@
 </div>
 
 Welcome to the official website of KiddoShield Technologies, where child safety takes center stage. In a world where distractions are abundant and children's curiosity knows no bounds, our mission is clear: to create a safe and secure environment for your little ones.
+___
+### AlexNet: A Brief Overview
+
+**AlexNet**is a deep convolutional neural network (CNN) designed for image classification tasks. Its primary function is to analyze images and categorize them into predefined classes or categories. This deep learning architecture excels in feature extraction, using convolutional and pooling layers to capture various levels of information from input images, ranging from basic edges and textures to more complex object parts and shapes. AlexNet is renowned for its exceptional accuracy in image classification, marking a significant advancement in computer vision.
+<div align="center">
+  <img src="https://www.mdpi.com/remotesensing/remotesensing-09-00848/article_deploy/html/images/remotesensing-09-00848-g001.png" width="800">
+</div>
+
+_____
  # The Problem
 
 In today's fast-paced digital age, parents often find themselves occupied with various tasks, leaving their children unattended. This lack of supervision can lead to unforeseen accidents, especially when children come into contact with household items that can pose risks. Kids, being naturally curious, may not always distinguish between harmless toys and potentially hazardous objects, such as sharp tools or chemicals.
+
+## What Drives Us
+
+The driving force behind our mission is the well-being of children. We believe that every child deserves a safe environment to learn, play, and grow without unnecessary risks. Our passion for child safety fuels our determination to develop innovative solutions that make a real difference in the lives of families.
 
 # Our Mission
 
@@ -29,36 +42,21 @@ At KiddoShield Technologies, we offer a comprehensive suite of child safety solu
 
 - **Support and Community**: Join our community of parents and caregivers dedicated to child safety. Get access to resources, tips, and a support network to help you navigate the journey of parenthoo. Discover peace of mind with KiddoShield Technologies. We're here to make child safety easier and more effective for you.
 
-### What Drives Us
 
-The driving force behind our mission is the well-being of children. We believe that every child deserves a safe environment to learn, play, and grow without unnecessary risks. Our passion for child safety fuels our determination to develop innovative solutions that make a real difference in the lives of families.
+[Datasets](https://docs.google.com/presentation/d/1BzIW9i5MSWFqAmGuCQvZJXfuHPE8Aeq331CLBh6X_ZY/edit#slide=id.g206f8279a60_0_0)
 
-### How We Achieve It
-
-We achieve our mission by combining state-of-the-art technology with a deep commitment to child safety. Our projects encompass a wide range of solutions, from sophisticated software applications to practical physical safety devices. Through continuous research, development, and collaboration, we strive to create tools that provide real-time awareness and protection for children.
-
-
-
-
-
-
-# Datasets
+# What we working on
 ### Kids Toy
 
 ![Toy Image](toy%20(2).jpg)
 ![Toy Image](toy%20(11).jpg)
 ![Toy Image](toy%20(16).jpg)
-
+__________
 ### Household Item
 
 ![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(26).jpg)
 ![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(25).jpg)
 ![household1](Copy%20of%20Happy%20face%20Vs%20Sad%20Face%20DataDeck%20(41).jpg)
-
-### AlexNet: A Brief Overview
-
-**AlexNet** is a powerful convolutional neural network (CNN) architecture designed for image classification. It gained fame for its victory in the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012. Key features of AlexNet include its deep architecture, convolutional layers for feature extraction, Rectified Linear Units (ReLU) for activation, and data augmentation.
-
 
 ### Using AlexNet in My Project
 
@@ -76,10 +74,6 @@ In my project aimed at creating a safe environment for kids, I utilized AlexNet 
 
 ![Epoch Train and Loss](epoch%20train%20and%20loss.png)
 
-### AlexNet: A Brief Overview
-
-**AlexNet** is a powerful convolutional neural network (CNN) architecture designed for image classification. It gained fame for its victory in the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012. Key features of AlexNet include its deep architecture, convolutional layers for feature extraction, Rectified Linear Units (ReLU) for activation, and data augmentation.
-
 ### Benefits of Using AlexNet
 
 Utilizing AlexNet in my project offered several significant benefits:
@@ -90,10 +84,16 @@ Utilizing AlexNet in my project offered several significant benefits:
 
 3. **Generalization:** Thanks to the diverse training data used to pre-train AlexNet, the model could generalize well to recognize a wide variety of toys and hazardous items.
 
-4. **Reduced Development Time:** By leveraging a pre-trained model like AlexNet, I saved considerable development time that would have been required to build and train a similar model from scratch.
-
-In summary, I harnessed the power of AlexNet to enhance child safety in my project. The model's ability to distinguish between toys and hazardous items with high accuracy and efficiency proved to be a valuable asset in creating a safer environment for children.
-
-
+4. **Reduced Development Time:** By leveraging a pre-trained model like AlexNet, I saved considerable development time that would have been required to build and train a similar model from scratch
 
 ![Epoch Train and Loss](feature%20map.png)
+
+
+
+## 📈 Weights and Biases Results
+
+<div align="center">
+    <img src="train.png" alt="Training Results" width="500"/>
+    <img src="loss.png" alt="Loss Results" width="500"/>
+</div>
+
