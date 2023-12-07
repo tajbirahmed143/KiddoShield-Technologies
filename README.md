@@ -6,7 +6,8 @@
     <img src="KiddoShield%20Technologies%20logo.png" alt="KiddoShield Technologies Logo" width="450"/>
 </div>
 
-Welcome to the official website of KiddoShield Technologies, where child safety takes center stage. In a world where distractions are abundant and children's curiosity knows no bounds, our mission is clear: to create a safe and secure environment for your little ones.
+*Welcome to the official website of KiddoShield Technologies, where child safety takes center stage. In a world where distractions are abundant and children's curiosity knows no bounds, our mission is clear: to create a safe and secure environment for your little ones.*
+
 ___
 ### AlexNet: A Brief Overview
 
@@ -75,9 +76,11 @@ In my project aimed at creating a safe environment for kids, I utilized AlexNet 
 3. **Fine-Tuning:** I fine-tuned the model on my dataset, which contained images of both toys and hazardous items. During this process, the model learned to identify unique features associated with each category.
 
 4. **Real-Time Detection:** With the trained AlexNet model integrated into my system, it was capable of real-time detection of objects in the environment. Whenever a child approached or interacted with an item, the system used AlexNet to determine if it was a toy or a hazardous item.
+
+## Accuracy and Loss
 ![Accuracy and Loss](accuracy%20and%20loss.png)
-
-
+___
+## Accuracy and Loss Epoch
 ![Epoch Train and Loss](epoch%20train%20and%20loss.png)
 # Feature Map
 [Google Colab Notebook](https://colab.research.google.com/drive/1vYmdwU6TSZyrNFM_jzg-z83U3gx2vaks?usp=sharing)
